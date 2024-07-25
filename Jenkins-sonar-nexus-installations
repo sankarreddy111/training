@@ -2,7 +2,8 @@ Create Ubuntu instance
 
 Install java 8
 ----------------
-sudo apt-get install openjdk-8-jdk -y
+apt-get install openjdk-8-jdk -y
+apt-get install maven
 
 Install Maven 3.3.9
 ---------------------
